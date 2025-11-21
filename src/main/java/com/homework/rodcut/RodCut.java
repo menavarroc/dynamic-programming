@@ -1,6 +1,4 @@
-package com.homework.knapsack;
-
-import java.util.Arrays;
+package com.homework.rodcut;
 
 public class RodCut {
 

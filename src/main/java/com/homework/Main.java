@@ -1,8 +1,8 @@
 package com.homework;
 
 import com.homework.knapsack.Knapsack;
-import com.homework.knapsack.MatrixChainMultiplication;
-import com.homework.knapsack.RodCut;
+import com.homework.matrixchain.MatrixChainMultiplication;
+import com.homework.rodcut.RodCut;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
